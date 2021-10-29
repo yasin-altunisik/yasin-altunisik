@@ -1,4 +1,3 @@
-# Profile
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">A Javascript developer from Turkey | React | React Native</h3>
 
