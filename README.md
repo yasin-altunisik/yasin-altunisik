@@ -5,9 +5,8 @@
 <br>
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
-
-- 🌱 I’m currently learning **.Net Core**
 <br>
+- 🌱 I’m currently learning **.Net Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
