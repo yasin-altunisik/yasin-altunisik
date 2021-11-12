@@ -7,6 +7,7 @@
 <br>
 <br>
 - 🌱 I’m currently learning **.Net Core**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
