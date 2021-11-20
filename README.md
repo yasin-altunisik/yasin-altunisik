@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">A Javascript developer from Turkey | React | React Native | Node.js</h3>
+<h3 align="center">A Full Stack developer from Turkey | React | .Net Core</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasin-altunisik&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-altunisik" /> </p>
 <br>
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
 <br>
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Node.js**
 <br>
 <br>
 
