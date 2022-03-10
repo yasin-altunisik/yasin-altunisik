@@ -28,5 +28,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasin-altunisik&show_icons=true&theme=radical&locale=en&layout=compact" alt="yasin-altunisik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasin-altunisik&show_icons=true&theme=dark&locale=en" alt="yasin-altunisik" width="50%" /></p>
