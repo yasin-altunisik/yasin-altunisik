@@ -5,11 +5,11 @@
 <br>
 <br>
 - 🌱 I’m currently learning **Node.js**<br>
-- 🥅 2022 Goals: Learn more about web3<br>
 - 🔭 I’m currently working on my "roommate" project.<br>
-- ⚡ Fun fact: I like to travel<br>
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik">Github</a>.<br>
 - 💬 Ping me about <strong>react</strong>.<br>
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik?tab=repositories">Github</a>.<br>
+- 🥅 2022 Goals: Learn more about web3<br>
+- ⚡ Fun fact: I like to travel<br>
 - 📙 Check out my <a href="https://www.yasinaltunisik.com/">website</a>.<br>
 <br>
 <br>
