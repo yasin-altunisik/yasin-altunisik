@@ -6,7 +6,11 @@
 <br>
 - 🌱 I’m currently learning **Node.js**<br>
 - 🥅 2022 Goals: Learn more about web3<br>
-- ⚡ Fun fact: I love to draw and play guitar / drums<br>
+- 🔭 I’m currently working on my "roommate" project.<br>
+- ⚡ Fun fact: I like to travel<br>
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik">Github</a>.<br>
+- 💬 Ping me about <strong>react</strong>.<br>
+- 📙 Check out my <a href="https://www.yasinaltunisik.com/">website</a>.<br>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
