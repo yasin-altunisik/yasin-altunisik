@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Software developer from Turkey | React | React Native | Node.js</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasin-altunisik&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-altunisik" /> </p>
-<br>
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
 <br>
