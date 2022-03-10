@@ -5,7 +5,7 @@
 <br>
 <br>
 - 🌱 I’m currently learning **Node.js**
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about web3-
 - ⚡ Fun fact: I love to draw and play guitar / drums
 <br>
 <br>
