@@ -4,9 +4,9 @@
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
 <br>
-- 🌱 I’m currently learning **Node.js**
-- 🥅 2022 Goals: Learn more about web3-
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning **Node.js**<br>
+- 🥅 2022 Goals: Learn more about web3<br>
+- ⚡ Fun fact: I love to draw and play guitar / drums<br>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
