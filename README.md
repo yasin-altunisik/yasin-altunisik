@@ -3,9 +3,10 @@
 <br>
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
+<br>
 - 🌱 I’m currently learning **Node.js**
 <br>
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/painkiller_ysn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="painkiller_ysn" height="30" width="40" /></a>
