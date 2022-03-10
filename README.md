@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I like to travel<br>
 - 📙 Check out my <a href="https://www.yasinaltunisik.com/">website</a>.<br>
 <br>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/painkiller_ysn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="painkiller_ysn" height="30" width="40" /></a>
