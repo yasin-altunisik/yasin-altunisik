@@ -6,7 +6,7 @@
 <br>
 <br>
 - 🌱 I’m currently learning Node.js<br>
-- 🔭 I’m currently working on my "roommate" project.<br>
+- 🔭 I’m currently working on my "Roommate" project.<br>
 - 💬 Ping me about <strong>react</strong>.<br>
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik?tab=repositories">Github</a>.<br>
 - 🥅 2022 Goals: Learn more about web3<br>
