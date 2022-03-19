@@ -5,7 +5,7 @@
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
 <br>
-- 🌱 I’m currently learning **Node.js**<br>
+- 🌱 I’m currently learning Node.js<br>
 - 🔭 I’m currently working on my "roommate" project.<br>
 - 💬 Ping me about <strong>react</strong>.<br>
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik?tab=repositories">Github</a>.<br>
