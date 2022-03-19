@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Software Developer</h3>
-<h5 align="center">React | React Native | Node.js</h5>
+<h5 align="center">React  |  React Native | Node.js</h5>
 <br>
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
