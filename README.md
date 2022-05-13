@@ -5,8 +5,6 @@
 <div align="center"><img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1500"  /> </div>
 <br>
 <br>
-- 🌱 I’m currently learning Node.js.<br>
-- 🔭 I’m currently working on my "Roommate" project.<br>
 - 💬 Ping me about <strong>React</strong>.<br>
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik?tab=repositories">Github</a>.<br>
 - 🥅 2022 Goals: Learn more about Web3.<br>
