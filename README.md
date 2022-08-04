@@ -3,8 +3,6 @@
 <h5 align="center">React  |  React Native</h5>
 <br>
 <div align="center"><img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" width="1500"  /> </div>
-//https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv
-//https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif
 <br>
 <br>
 - 💬 Ping me about <strong>React</strong>.<br>
