@@ -3,13 +3,6 @@
 <br>
 <div align="center"><img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" width="1500"  /> </div>
 <br>
-<br>
-- 💬 Ping me about <strong>React</strong>.<br>
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/yasin-altunisik?tab=repositories">Github</a>.<br>
-- 🥅 2022 Goals: Learn more about Web3.<br>
-- ⚡ Fun fact: I like to travel.<br>
-- 📙 Check out my <a href="https://www.yasinaltunisik.com/">website</a>.<br>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/painkiller_ysn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="painkiller_ysn" height="30" width="40" /></a>
